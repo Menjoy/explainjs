@@ -25,6 +25,7 @@
   "scripts": {},
   "license": "MIT/X11",
   "dependencies": {
+    "jsdoc-api": "^2.0.0",
     "node-markdown": "~0.1.1"
   }
 }
